@@ -33,8 +33,3 @@
 //Purpose:
 //Parameters:
 //Algorithm:
-
-#Top of headers
-//Purpose:
-//Input:
-//Output:

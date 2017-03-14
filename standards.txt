@@ -1,22 +1,48 @@
+//Tabs are justice.
+
 #Top of every file.
 /*****************filename**************/
-//Name: Aaron Brunette
+//Author: Aaron Brunette
 //Github: abrunette
 //Last updated: 20YY/MM/DD
 //Compiled with
+//Written on 
 //Purpose:
 /***************************************/
 
 #Includes
 //(give what functions a library/header is used for in the program)
+/* Common libraries */
+#include <iostream>   //input/output library
+#include <iomanip>    //input/output manipulation library
+#include <cmath>      //standard math library
+#include <cstdlib>    //general purpose C library
+#include <cstdio>     //C input/output library
+#include <cerrno>     //error handling
+#include <ctime>      //clock/time library
+#include <string>     //string data type
+#include <array>      //array data structure
+#include <vector>     //vector data structure
 
 #Top of main
 //Purpose:
-//Parameters:
-//Algorithm:
+//User information:
+//Algorithm:  (if needed)
+//Input:  (if needed)
+//Output: (if needed)
+
+#Top of non-main
+//Purpose:
+//Input:
+//Output:
+//Description:
 
 #Top of functions
 //Purpose:
 //Parameters:
 //Algorithm:
 
+#Top of headers
+//Purpose:
+//Input:
+//Output:

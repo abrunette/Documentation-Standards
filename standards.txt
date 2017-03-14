@@ -2,7 +2,7 @@
 /*****************filename**************/
 //Name: Aaron Brunette
 //Github: abrunette<br />
-//Last Updated: 20YY/MM/DD
+//Last updated: 20YY/MM/DD
 //Compiled with
 //Purpose:
 /***************************************/

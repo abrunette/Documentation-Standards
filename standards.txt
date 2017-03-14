@@ -6,3 +6,17 @@
 //Compiled with
 //Purpose:
 /***************************************/
+
+#Includes
+//(give what functions a library/header is used for in the program)
+
+#Top of main
+//Purpose:
+//Parameters:
+//Algorithm:
+
+#Top of functions
+//Purpose:
+//Parameters:
+//Algorithm:
+

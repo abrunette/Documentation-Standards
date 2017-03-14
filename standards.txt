@@ -1,1 +1,8 @@
-/*********filename*********/
+#Top of every file.
+/*****************filename**************/
+//Name: Aaron Brunette
+//Github: abrunette<br />
+//Last Updated: 20YY/MM/DD
+//Compiled with
+//Purpose:
+/***************************************/

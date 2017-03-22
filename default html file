@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+
+<!-- This is <file>.type -->
+
+<html lang="en">
+<html>
+	<head>
+	<meta charset="utf-8">
+
+ 	<title>Title Here</title>
+  	<meta name="description" content="content here">
+  	<meta name="author" content="SitePoint">
+
+  	<link rel="stylesheet" type="text/css" href="<file>.type">
+	<link href="favicon.png" rel="icon" type="image/x-icon" />
+	</head>
+	
+	<body>
+		<header>This is a header.</header>
+	</body>
+	
+	<footer>
+	
+	<!--Author-->
+	<!--Copyright-->
+	<!--Contact-->
+	<!--sitemap-->
+	<!--back to top links-->
+	<!--related documents-->
+	
+	</footer>
+</html>

@@ -29,6 +29,12 @@
 //Input:  (if needed)
 //Output: (if needed)
 
+int main(int argc, char* argv[])
+{
+
+  exit(0);
+}
+
 #Top of non-main
 //Purpose:
 //Input:

@@ -13,8 +13,14 @@
 #Includes
 //(give what functions a library/header is used for in the program)
 /* Common libraries */
-#include <>
-
+#include <stdio.h>      //
+#include <unistd.h>     //
+#include <errno.h>      //
+#include <stdlib.h>     //
+#include <fcntl.h>      //
+#include <time.h>       //time/clock library
+#include <pthread.h>    //thread library
+#include <semaphore.h>  //semaphore library
 
 #Top of main
 //Purpose:

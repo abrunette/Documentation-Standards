@@ -34,7 +34,7 @@ int main(int argc, char* argv[])
 
   exit(0);
 }
-
+  
 #Top of non-main
 //Purpose:
 //Input:
@@ -45,3 +45,17 @@ int main(int argc, char* argv[])
 //Purpose:
 //Parameters:
 //Algorithm:
+
+************************Common code usage******************************
+#main command line error checking
+  argc is equal to the number of command line arguments recieved. The file name is 1. If argc == 1 then only the file
+  name was received.
+  
+  *argv[] is an array of arrays. argv[0] holds the file name, don't edit or access this. Successive arguments are placed
+  in the following array slots. I.E. ./<filename> <arg1> <arg2> ...
+  argv[] = [filename] [arg1] [arg2] ...
+              [0]       [1]    [2]
+              
+#converting command line argument to interger
+atoi(<input here>);   //example:  double userInput = atoi(argv[1]);
+strtol(<input here>, <end ptr>, <base of conversion>);  //example:  int seed = strtol(argv[1], NULL, 10);

@@ -62,3 +62,6 @@ strtol(<input here>, <end ptr>, <base of conversion>);  //example:  int seed = s
 
 #using perror
 Use perror instead of printf. exit(1).
+
+#compile to executable in vim gcc
+gcc -o <exefilename> <c file>

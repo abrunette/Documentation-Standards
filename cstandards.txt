@@ -19,7 +19,7 @@
 #include <stdlib.h>     //C general library
 #include <fcntl.h>      //file control library
 #include <time.h>       //time/clock library
-#include <math.h>	      //C Math library
+#include <math.h>       //C Math library
 #include <pthread.h>    //pthread library
 #include <semaphore.h>  //semaphore library
 

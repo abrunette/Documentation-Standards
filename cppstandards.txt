@@ -16,7 +16,7 @@
 #include <iostream>   //input/output library
 #include <iomanip>    //input/output manipulation library
 #include <cmath>      //standard C math library
-#include <math.h>     //mathematical declarations
+#include <math.h>     //mathematical declarations (same as cmath)
 #include <cstdlib>    //general purpose C library
 #include <cstdio>     //C input/output library
 #include <cerrno>     //error handling

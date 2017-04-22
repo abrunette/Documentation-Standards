@@ -41,8 +41,9 @@
 //Purpose:
 //Parameters:
 //Algorithm:
+//Input:
+//Output:
 
 #Top of headers
 //Purpose:
-//Input:
-//Output:
+//User information:

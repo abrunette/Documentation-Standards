@@ -38,6 +38,12 @@ int main(int argc, char* argv[])
   exit(0);
 }
 
+#Top of non-main
+//Purpose:
+//Input:
+//Output:
+//Description:
+
 #Top of functions
 //Purpose:
 //Parameters:

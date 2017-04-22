@@ -22,6 +22,8 @@
 #include <math.h>       //C Math library
 #include <pthread.h>    //pthread library
 #include <semaphore.h>  //semaphore library
+#include <sys/types.h>	//additional C data types
+#include <sys/stat.h>	  //C file attributes
 
 #Top of main
 //Purpose:
@@ -35,12 +37,6 @@ int main(int argc, char* argv[])
 
   exit(0);
 }
-  
-#Top of non-main
-//Purpose:
-//Input:
-//Output:
-//Description:
 
 #Top of functions
 //Purpose:

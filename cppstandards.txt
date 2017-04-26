@@ -22,7 +22,7 @@
 #include <cerrno>     //error handling
 #include <ctime>      //clock/time library
 #include <string>     //string data type
-#include <array>      //array data structure
+#include <array>      //array functions
 #include <vector>     //vector data structure
 
 #Top of main

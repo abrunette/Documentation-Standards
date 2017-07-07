@@ -7,8 +7,10 @@
 		<meta charset="utf-8">
 
 		<title>Title Here</title>
-		<meta name="description" content="content here">
-		<meta name="author" content="SitePoint">
+		<meta name="description" content="<!--description here-->">
+		<meta name="keywords" content="<!--keywords here-->">
+		<meta name="author" content="<!--author here-->">
+		<meta name="viewport" content="<!--viewport here-->">
 
 		<link rel="stylesheet" type="text/css" href="<file>.type">
 		<link href="favicon.png" rel="icon" type="image/x-icon" />

@@ -4,14 +4,14 @@
 
 <html lang="en">
 	<head>
-	<meta charset="utf-8">
+		<meta charset="utf-8">
 
- 	<title>Title Here</title>
-  	<meta name="description" content="content here">
-  	<meta name="author" content="SitePoint">
+		<title>Title Here</title>
+		<meta name="description" content="content here">
+		<meta name="author" content="SitePoint">
 
-  	<link rel="stylesheet" type="text/css" href="<file>.type">
-	<link href="favicon.png" rel="icon" type="image/x-icon" />
+		<link rel="stylesheet" type="text/css" href="<file>.type">
+		<link href="favicon.png" rel="icon" type="image/x-icon" />
 	</head>
 	
 	<body>
@@ -20,12 +20,12 @@
 	
 	<footer>
 	
-	<!--Author-->
-	<!--Copyright-->
-	<!--Contact-->
-	<!--sitemap-->
-	<!--back to top links-->
-	<!--related documents-->
+		<!--Author-->
+		<!--Copyright-->
+		<!--Contact-->
+		<!--sitemap-->
+		<!--back to top links-->
+		<!--related documents-->
 	
 	</footer>
 </html>

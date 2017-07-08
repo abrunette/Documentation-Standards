@@ -10,8 +10,8 @@
 
 		<meta name="description" content="<!--description here-->">
 		<meta name="keywords" content="<!--keywords here-->">
-		<meta name="author" content="<!--author here-->">
-		<meta name="viewport" content="<!--viewport here-->">
+		<meta name="author" content="Aaron Brunette">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 		<link rel="stylesheet" type="text/css" href="<file>.type">
 		<link href="favicon.png" rel="icon" type="image/x-icon" />

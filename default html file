@@ -13,13 +13,13 @@
 		<meta name="author" content="Aaron Brunette">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+		<link rel="stylesheet" type="text/css" href="<file>.type">
+		<link href="favicon.png" rel="icon" type="image/x-icon" />
+		
 		<!-- [if lt IE 9]>
 		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js">
 		</script>
 		<![endif]-->
-
-		<link rel="stylesheet" type="text/css" href="<file>.type">
-		<link href="favicon.png" rel="icon" type="image/x-icon" />
 	</head>
 	
 	<body>

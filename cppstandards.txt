@@ -25,6 +25,9 @@
 #include <array>      //array functions
 #include <vector>     //vector data structure
 
+#namespace
+using namespace std;
+
 #Top of main
 //Purpose:
 //User information:

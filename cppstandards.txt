@@ -24,6 +24,7 @@
 #include <string>     //string data type
 #include <array>      //array functions
 #include <vector>     //vector data structure
+#include <fstream>    //file stream
 
 #namespace
 using namespace std;
